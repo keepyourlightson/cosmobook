@@ -1,11 +1,15 @@
 # CosmoBook
 
-## Try it out
+## Интро
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+Здесь собрана информация по экосистеме Cosmos.&#x20;
+
+Гитбук родился из статей "Автостопом по Cosmos", написанных [Creeptah](https://t.me/creeptah) и [The Farm](https://t.me/TheFarm\_xyz).
 
 
 
-## Moving on
+## Приятного чтения
 
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+Для навигации используйте меню слева.
+
+![](.gitbook/assets/image.png)
