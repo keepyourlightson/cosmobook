@@ -1,4 +1,4 @@
-# CosmoBook
+# CosmoBook eng
 
 ## Интро
 
@@ -15,7 +15,7 @@
 
 Приятного чтения!
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (6).png>)
 
 
 
