@@ -29,4 +29,3 @@
   * [IRISnet](cosmobook/irisnet.md)
   * [UnUniFi Protocol](cosmobook/ununifi-protocol.md)
   * [Дропы Космоса](cosmobook/dropy-kosmosa.md)
-  * [Контакты](readme/kontakty.md)
