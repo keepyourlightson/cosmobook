@@ -17,5 +17,3 @@ Cosmobook - это открытый бесплатный ресурс, где с
 Нас поддерживает: [Citadele.one](https://citadel.one/)
 
 Oтдельное спасибо за помощь [@arinaa\_k](https://t.me/arinaa\_k)
-
-![](<.gitbook/assets/image (6).png>)
