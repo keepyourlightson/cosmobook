@@ -1,8 +1,6 @@
 # Neta
 
-## Neta-конфета или neta-\*уета?
-
-![](https://telegra.ph/file/9e39b3612e6aa59b650db.png)
+## Neta.
 
 NETA — это деньги в зоне Juno. Токен был создан и распространен [Core-1](https://docs.junonetwork.io/juno/juno-developers#core-1), основной командой разработчиков Juno Network. Единственное утилити $NETA — быть дефицитным децентрализованным активом для сбережения не только в зоне Juno, но и в Cosmos в целом.
 
@@ -64,12 +62,6 @@ DAO предоставляет преимущества и привилегии,
 1. Вероятно холд $Neta будет своеобразным флагом, обозначающим early-supporter Juno. Также, учитывая то, что токен разработали основатели зоны Juno, то возможно это будет учитываться при распределении токенов следующих детищ.
 2. Если запустят DAO, то можно поучаствовать в управлении ради движа, а также ради плюшек, которые обещают Neta DAO.
 
-
-
-
-
-
-
 ### 18.08.2022 Стейкинг и DAO
 
 Стейкинг Neta стартовал 11.08.2022
@@ -108,15 +100,15 @@ Neta DAO имеет:
 
 Neta DAO может принимать и распределять средства среди проектов или команд по решению руководства DAO; поэтому им нужна защита от злоумышленников. В промежуточный период NETA создали Multisig из 9 членов с порогом прохождения 6 из 9, который будет отвечать за то, чтобы средства использовались в соответствии с пожеланиями сообщества. Кроме того, если DAO потребуется перейти на новую версию контрактов DAO, трежери сможет справиться с этим без проблем с логистикой, как это произошло с некоторыми из родственных DAO.
 
-**Члены организационного Multisig и соответствующие адреса:**&#x20;
+**Члены организационного Multisig и соответствующие адреса:**
 
-_massv (Neta DAO): juno1fzw7lp3u708rg49zqv48pdm8e03uz4srw2dx39 | Verification_&#x20;
+_massv (Neta DAO): juno1fzw7lp3u708rg49zqv48pdm8e03uz4srw2dx39 | Verification_
 
-_wtrsld (Neta DAO): juno1e6fhmfer34hh7kl9um6p52nkqflkp4jajgxunw | Verification_&#x20;
+_wtrsld (Neta DAO): juno1e6fhmfer34hh7kl9um6p52nkqflkp4jajgxunw | Verification_
 
 _envy (Neta DAO): juno1g5t9r670acafp8ys3zpd5dxzunv99l3t6ruq9r | Verification_
 
-&#x20;_whiskey (Neta DAO): juno1hcqjney83mcm50jvf70lk3h6yytkke0x98czhz | Verification_&#x20;
+_whiskey (Neta DAO): juno1hcqjney83mcm50jvf70lk3h6yytkke0x98czhz | Verification_
 
 _dude from internet (Neta DAO): juno15jxj5tcfqwnmupfzleuxaqfqvyjkjvd35vdea9 | Verification_
 
@@ -124,25 +116,25 @@ _dude from internet (Neta DAO): juno15jxj5tcfqwnmupfzleuxaqfqvyjkjvd35vdea9 | Ve
 
 Поскольку NETA - это токен дефицитного предложения, который был полностью ликвиден и широко распространен в момент создания, это приводит к уникальным обстоятельствам, связанным с распределением и, соответственно, управлением. Neta DAO создала функцию исполнителя в своем экземпляре DAODAO, которая дает возможность мультисигу из 9 членов (с порогом прохождения 6 из 9) отклонить любое вредоносное предложение от DAO до того, как оно пройдет. Это сделано для того, чтобы защитить сообщество и средства, вложенные членами в DAO, и предотвратить угрозу деятельности DAO со стороны плохих игроков с большим капиталом, которым невозможно противостоять.
 
-**Члены исполнительного Multisig и соответствующие адреса:**&#x20;
+**Члены исполнительного Multisig и соответствующие адреса:**
 
-_Aswever (Howl): juno1998l0qxj346eznrmwhw3a2z7pacdxepypmxz7f | Verification_&#x20;
+_Aswever (Howl): juno1998l0qxj346eznrmwhw3a2z7pacdxepypmxz7f | Verification_
 
-_ekez (DAODAO): juno1m7a7nva00p82xr0tssye052r8sxsxvcy2v5qz6 | Verification_&#x20;
+_ekez (DAODAO): juno1m7a7nva00p82xr0tssye052r8sxsxvcy2v5qz6 | Verification_
 
-_Elsehow (DAODAO): juno175q6smvgnuec5e62rs4chnu5cs8d98q2xgf4rx | Verification_&#x20;
+_Elsehow (DAODAO): juno175q6smvgnuec5e62rs4chnu5cs8d98q2xgf4rx | Verification_
 
-_envy (Neta DAO): juno1g5t9r670acafp8ys3zpd5dxzunv99l3t6ruq9r | Verification_&#x20;
+_envy (Neta DAO): juno1g5t9r670acafp8ys3zpd5dxzunv99l3t6ruq9r | Verification_
 
-_Lil D (Neta DAO): juno1kkerfymlqzjd45xlvvle6yyjh849m7xvpf9jaq | Verification_&#x20;
+_Lil D (Neta DAO): juno1kkerfymlqzjd45xlvvle6yyjh849m7xvpf9jaq | Verification_
 
-_massv (Neta DAO): juno1fzw7lp3u708rg49zqv48pdm8e03uz4srw2dx39 | Verification_&#x20;
+_massv (Neta DAO): juno1fzw7lp3u708rg49zqv48pdm8e03uz4srw2dx39 | Verification_
 
-_Max (Wombat): juno1j60rdmtrwjyleql5y4dtr0mfsac2pnswmfceyz | Verification_&#x20;
+_Max (Wombat): juno1j60rdmtrwjyleql5y4dtr0mfsac2pnswmfceyz | Verification_
 
 _Poroburu (Neta DAO Validator): juno17fzx4rvw04586s8f2c2vv53pe3yypu0ccu566q | Verification_
 
-&#x20;_wtrsld (Neta DAO): juno1e6fhmfer34hh7kl9um6p52nkqflkp4jajgxunw | Verification_
+_wtrsld (Neta DAO): juno1e6fhmfer34hh7kl9um6p52nkqflkp4jajgxunw | Verification_
 
 #### Операционный Мультисиг
 
@@ -154,15 +146,15 @@ _Poroburu (Neta DAO Validator): juno17fzx4rvw04586s8f2c2vv53pe3yypu0ccu566q | Ve
 
 Всего $140 USD/месяц
 
-**Адреса действующих членов операционного Multisig:**&#x20;
+**Адреса действующих членов операционного Multisig:**
 
-_massv (Neta DAO): juno1fzw7lp3u708rg49zqv48pdm8e03uz4srw2dx39 | Verification_&#x20;
+_massv (Neta DAO): juno1fzw7lp3u708rg49zqv48pdm8e03uz4srw2dx39 | Verification_
 
-_wtrsld (Neta DAO): juno1e6fhmfer34hh7kl9um6p52nkqflkp4jajgxunw | Verification_&#x20;
+_wtrsld (Neta DAO): juno1e6fhmfer34hh7kl9um6p52nkqflkp4jajgxunw | Verification_
 
-_envy (Neta DAO): juno1g5t9r670acafp8ys3zpd5dxzunv99l3t6ruq9r | Verification_&#x20;
+_envy (Neta DAO): juno1g5t9r670acafp8ys3zpd5dxzunv99l3t6ruq9r | Verification_
 
-_whiskey (Neta DAO): juno1hcqjney83mcm50jvf70lk3h6yytkke0x98czhz | Verification_&#x20;
+_whiskey (Neta DAO): juno1hcqjney83mcm50jvf70lk3h6yytkke0x98czhz | Verification_
 
 _dude from internet (Neta DAO): juno15jxj5tcfqwnmupfzleuxaqfqvyjkjvd35vdea9 | Verification_
 
