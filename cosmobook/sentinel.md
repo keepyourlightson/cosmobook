@@ -112,14 +112,18 @@ dApps, созданные на базе Sentinel, являются если не
 
 ### **Полезные ссылки:**
 
-Веб-сайт: [https://decentr.net](https://decentr.net/)
+Веб-сайт: [https://sentinel.co/](https://sentinel.co/)
 
-Twitter: [https://twitter.com/DecentrNet](https://twitter.com/DecentrNet)
+Twitter: [https://twitter.com/Sentinel\_co](https://twitter.com/Sentinel\_co)
 
-Группа Telegram: [https://t.me/DecentrNet](https://t.me/DecentrNet)
+Telegram: [https://t.me/sentinel\_co](https://t.me/sentinel\_co)
 
-Telegram ANN: [https://t.me/DecentrAnnouncements](https://t.me/DecentrAnnouncements)
+Telegram Ru: [https://t.me/sentinel\_ru](https://t.me/sentinel\_ru)
 
-Github: [https://github.com/Decentr-net](https://github.com/Decentr-net)
+Github: [https://github.com/sentinel-official](https://github.com/sentinel-official)
+
+Reddit: [https://www.reddit.com/r/DVPN](https://www.reddit.com/r/DVPN)
+
+Discord: [https://discord.com/invite/mmAA8qF](https://discord.com/invite/mmAA8qF)
 
 Поддержка (валидирование, стейкинг, поддержка браузера): [https://discord.gg/9cSxwKyEjR](https://discord.gg/9cSxwKyEjR)
