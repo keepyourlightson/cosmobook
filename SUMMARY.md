@@ -30,3 +30,4 @@
   * [UnUniFi Protocol](cosmobook/ununifi-protocol.md)
   * [Дропы Космоса](cosmobook/dropy-kosmosa.md)
   * [Контакты](readme/kontakty.md)
+  * [CosmoLinks](readme/cosmolinks.md)
