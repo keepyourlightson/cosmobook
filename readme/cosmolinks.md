@@ -136,15 +136,15 @@
 
 * https://docs.kava.io/docs/intro/
 
-_Akash:_
+**Akash:**
 
 * https://docs.akash.network/
 
-Injective:
+**Injective:**
 
 * https://docs.injective.network/
 
-### Key Cosmos Contributors:
+### Ключевые фигуры Cosmos:
 
 * https://coinhall.notion.site/Key-Cosmos-Contributors-e176f07de61a42af8c8983835561e7a7
 
@@ -160,12 +160,12 @@ Injective:
 8. https://t.me/cosmosdrops
 9. https://t.me/cosmosdropsio
 
-## 4. Useful bots
+## 4. Полезные боты
 
-### proposals
+### Голосования
 
 * http://t.me/citadelvotebot
 
-### news aggregator
+### Агрегатор новостей
 
 * https://t.me/cosmos\_cats\_bot\_tln
