@@ -55,9 +55,9 @@
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
 3. **Secret**\
-   ****[ **** app.secretswap.net](http://app.secretswap.net/)\
-   [app.sienna.network](https://app.sienna.network/)\
-   [app.shadeprotocol.io](http://app.shadeprotocol.io/)
+   * [app.secretswap.net](http://app.secretswap.net/)\
+   * [app.sienna.network](https://app.sienna.network/)\
+   * [app.shadeprotocol.io](http://app.shadeprotocol.io/)
 4. **Iris:**
    * [https://coinswap.market/](https://coinswap.market/)
 5. **Orai:**
@@ -76,9 +76,9 @@
 
 ### Restake (автокомпаундирование):
 
-1. [https://restake.app/](https://restake.app/)
-2. [https://www.yieldmos.com/strategies](https://www.yieldmos.com/strategies)
-3. [https://app.citadel.one/extensions/Autorestake](https://app.citadel.one/extensions/Autorestake)
+* [https://restake.app/](https://restake.app/)
+* [https://www.yieldmos.com/strategies](https://www.yieldmos.com/strategies)
+* [https://app.citadel.one/extensions/Autorestake](https://app.citadel.one/extensions/Autorestake)
 
 #### Калькулятор стейкинга Atom:
 
@@ -88,9 +88,9 @@
 
 ### Общее:
 
-1. [https://cosmos.network/intro/](https://cosmos.network/intro/)
-2. [https://docs.cosmos.network/](https://docs.cosmos.network/)
-3. [https://tutorials.cosmos.network/](https://tutorials.cosmos.network/)
+* [https://cosmos.network/intro/](https://cosmos.network/intro/)
+* [https://docs.cosmos.network/](https://docs.cosmos.network/)
+* [https://tutorials.cosmos.network/](https://tutorials.cosmos.network/)
 
 ### Tendermint:
 
@@ -98,8 +98,8 @@
 
 ### IBC:
 
-1. [https://ibc.cosmos.network/](https://ibc.cosmos.network/)
-2. [https://ibcprotocol.org/](https://ibcprotocol.org/)
+* [https://ibc.cosmos.network/](https://ibc.cosmos.network/)
+* [https://ibcprotocol.org/](https://ibcprotocol.org/)
 
 ### CosmWasm:
 
@@ -161,15 +161,15 @@
 
 ## 3. Cosmos Airdrops
 
-1. [https://cosmosdrops.io/](https://cosmosdrops.io/)
-2. [https://cosmosdrops.xyz/](https://cosmosdrops.xyz/)
-3. [https://www.cosmosairdrops.io/](https://www.cosmosairdrops.io/)
-4. [https://cosmospug.com/airdrops/](https://cosmospug.com/airdrops/)
-5. [https://twitter.com/cosmos\_airdrops](https://twitter.com/cosmos\_airdrops)
-6. [https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625](https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625)
-7. [https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0](https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0)
-8. [https://t.me/cosmosdrops](https://t.me/cosmosdrops)
-9. [https://t.me/cosmosdropsio](https://t.me/cosmosdropsio)
+* [https://cosmosdrops.io/](https://cosmosdrops.io/)
+* [https://cosmosdrops.xyz/](https://cosmosdrops.xyz/)
+* [https://www.cosmosairdrops.io/](https://www.cosmosairdrops.io/)
+* [https://cosmospug.com/airdrops/](https://cosmospug.com/airdrops/)
+* [https://twitter.com/cosmos\_airdrops](https://twitter.com/cosmos\_airdrops)
+* [https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625](https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625)
+* [https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0](https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0)
+* [https://t.me/cosmosdrops](https://t.me/cosmosdrops)
+* [https://t.me/cosmosdropsio](https://t.me/cosmosdropsio)
 
 ## 4. Полезные боты
 
