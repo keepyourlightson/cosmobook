@@ -27,6 +27,7 @@
 * [https://explorer.brocha.in/](https://explorer.brocha.in/)
 * [https://omniflix.co/home](https://omniflix.co/home)
 * [https://ping.pub/](https://ping.pub/)
+* [https://stake.tax/](https://stake.tax/)
 
 ### IBC карта:
 
@@ -47,6 +48,7 @@
    2. [https://frontier.osmosis.zone/](https://frontier.osmosis.zone/)
 2. **Juno:**
    * [https://junoswap.com/](https://junoswap.com/)
+   * [juno.loop.markets](http://juno.loop.markets/)
 3. **Iris:**
    * [https://coinswap.market/](https://coinswap.market/)
 4. **Orai:**
