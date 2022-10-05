@@ -49,21 +49,25 @@
 2. **Juno:**
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
-3. **Iris:**
+3. **Secret**\
+   ****[ **** app.secretswap.net](http://app.secretswap.net/)\
+   [app.sienna.network](https://app.sienna.network/)\
+   [app.shadeprotocol.io](http://app.shadeprotocol.io/)
+4. **Iris:**
    * [https://coinswap.market/](https://coinswap.market/)
-4. **Orai:**
+5. **Orai:**
    * [https://oraidex.io/](https://oraidex.io/)
-5. **Sifchain:**
+6. **Sifchain:**
    * [https://sifchain-dex.redstarling.com/](https://sifchain-dex.redstarling.com/)
-6. **Crescent:**
+7. **Crescent:**
    * [https://app.crescent.network/](https://app.crescent.network/)
-7. **Terra2:**
+8. **Terra2:**
    * [https://tfm.com/](https://tfm.com/)
-8. **Kujira:**
+9. **Kujira:**
    * [https://fin.kujira.app/](https://fin.kujira.app/)
-9. **Evmos:**
-   1. [https://app.diffusion.fi/](https://app.diffusion.fi/)
-   2. [https://app.evmoswap.org/](https://app.evmoswap.org/)
+10. **Evmos:**
+    1. [https://app.diffusion.fi/](https://app.diffusion.fi/)
+    2. [https://app.evmoswap.org/](https://app.evmoswap.org/)
 
 ### Restake (автокомпаундирование):
 
