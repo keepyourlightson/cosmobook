@@ -7,7 +7,7 @@
     * [Neta](cosmobook/juno/neta.md)
   * [Secret Network](cosmobook/secret-network.md)
   * [Axelar Network](cosmobook/axelar-network.md)
-  * [Evmos](readme/evmos.md)
+  * [Evmos](cosmobook/evmos.md)
   * [Umee](readme/umee.md)
   * [Cronos](cosmobook/cronos.md)
   * [Sifchain](cosmobook/sifchain.md)
