@@ -54,7 +54,7 @@
 2. **Juno:**
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
-3. **Secret**\
+3. **Secret**
    * [app.secretswap.net](http://app.secretswap.net/)\
    * [app.sienna.network](https://app.sienna.network/)\
    * [app.shadeprotocol.io](http://app.shadeprotocol.io/)
@@ -71,8 +71,8 @@
 9. **Kujira:**
    * [https://fin.kujira.app/](https://fin.kujira.app/)
 10. **Evmos:**
-    1. [https://app.diffusion.fi/](https://app.diffusion.fi/)
-    2. [https://app.evmoswap.org/](https://app.evmoswap.org/)
+    * [https://app.diffusion.fi/](https://app.diffusion.fi/)
+    * [https://app.evmoswap.org/](https://app.evmoswap.org/)
 
 ### Restake (автокомпаундирование):
 
