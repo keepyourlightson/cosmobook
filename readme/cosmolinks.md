@@ -13,6 +13,11 @@
 * [https://walletio.io/](https://walletio.io/)
 * [https://atomicwallet.io](https://atomicwallet.io)
 
+### DeFi трекеры:
+
+* [https://app.citadel.one/](https://app.citadel.one/)
+* [https://apeboard.finance/dashboard](https://apeboard.finance/dashboard)
+
 ### Поиск аккаунтов по cosmos-адресу:
 
 * [https://findaccount.blockpane.com/](https://findaccount.blockpane.com/)
@@ -44,8 +49,8 @@
 ### DEXы:
 
 1. **Osmosis:**
-   1. [https://app.osmosis.zone/](https://app.osmosis.zone/)
-   2. [https://frontier.osmosis.zone/](https://frontier.osmosis.zone/)
+   * [https://app.osmosis.zone/](https://app.osmosis.zone/)
+   * [https://frontier.osmosis.zone/](https://frontier.osmosis.zone/)
 2. **Juno:**
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
