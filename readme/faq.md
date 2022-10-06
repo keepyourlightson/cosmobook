@@ -1,8 +1,8 @@
 # FAQ
 
-### Как отправить токены из EVM в Cosmos
+## Как отправить токены из EVM в Cosmos
 
-#### через Orai
+### через Orai
 
 1. Бриджим USDT/ORAI/AIRI из BNB Chain в Orai [https://oraidex.io/bridge](https://oraidex.io/bridge)
 2. Обмениваем на ATOM или OSMO [https://oraidex.io/swap](https://oraidex.io/swap)
@@ -10,7 +10,7 @@
 
     _полный гайд_ [_здесь_](https://teletype.in/@creeptah/BSCtoCosmos)
 
-#### via Axelar
+### через Axelar
 
 1.  Отправляем токены из Ethereum/Avalanche/BNB Chain/Fantom/Polygon в Osmosis/CosmosHub и другие зоны тут: [https://satellite.money/](https://satellite.money/)
 
@@ -18,10 +18,10 @@
 
 _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_cosmos\_2)
 
-#### через Rango.Exchange
+### через Rango.Exchange
 
 Используйте это dAPP: [https://app.rango.exchange/](https://app.rango.exchange/)
 
-### Как установить dVPN
+## Как установить dVPN
 
 Используйте этого телеграм бота: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
