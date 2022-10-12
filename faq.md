@@ -28,16 +28,16 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 
 ## Unbonding токенов&#x20;
 
-| 7+ days      |   14+ days       |                                    21+ days                | 28+ days        |
-| ------------ | ---------------- | ---------------------------------------------------------- | --------------- |
-| Axelar (Axl) | Osmosis (Osmo)   | Cosmos Hub (ATOM)                  Akash (AKT)             | Juno            |
-|              | Evmos            |   AssetMantle (MNTL)                       IXO             | Sentinel (DVPN) |
-|              | Stargaze (STARS) |       Starname (IOV)                     Secret (SCRT)     |                 |
-|              | Umee             |    Sommelier (SOMM)                       Regen            |                 |
-|              | Kujira (KUJI)    |   GravityBridge (GRAV)                      Kava           |                 |
-|              |                  |       Cryrto.org (CRO)                   Agorik (BLD)      |                 |
-|              |                  |            Certik (CTK)                    Likecoin (LIKE) |                 |
-|              |                  |         Bitsong (BTSG)                         Rebus       |                 |
-|              |                  |         e-Money (NGM)                  Stride (STRD)       |                 |
-|              |                  |      SifChaine (ROWAN)                        Iris         |                 |
-|              |                  |       Persistence (XPRT)                Teritori (TORI)    |                 |
+| 7+ days      | 14+ days         | 21+ days                               | 28+ days        |
+| ------------ | ---------------- | -------------------- | --------------- | --------------- |
+| Axelar (Axl) | Osmosis (Osmo)   | Cosmos Hub (ATOM)    | Akash (AKT)     | Juno            |
+|              | Evmos            | AssetMantle (MNTL)   | IXO             | Sentinel (DVPN) |
+|              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)   |                 |
+|              | Umee             | Sommelier (SOMM)     | Regen           |                 |
+|              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
+|              |                  | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
+|              |                  | Certik (CTK)         | Likecoin (LIKE) |                 |
+|              |                  | Bitsong (BTSG)       | Rebus           |                 |
+|              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
+|              |                  | SifChaine (ROWAN)    | Iris            |                 |
+|              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
