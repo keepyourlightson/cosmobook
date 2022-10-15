@@ -1,7 +1,5 @@
 # CosmoLinks
 
-
-
 ## 1. Полезные аппки и сайты
 
 ### Кошельки:
@@ -34,6 +32,13 @@
 * [https://ping.pub/](https://ping.pub/)
 * [https://stake.tax/](https://stake.tax/)
 
+### DeFi-агрегаторы:
+
+* [https://defillama.com](https://defillama.com)
+* [https://nanoly.com](https://nanoly.com)
+* [https://juno.tfm.com](https://juno.tfm.com)
+* [https://www.dexmos.app/](https://www.dexmos.app/)
+
 ### IBC карта:
 
 * [https://mapofzones.com/home?columnKey=ibcVolume\&period=24h](https://mapofzones.com/home?columnKey=ibcVolume\&period=24h)
@@ -55,8 +60,8 @@
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
 3. **Secret**
-   * [app.secretswap.net](http://app.secretswap.net/)\
-   * [app.sienna.network](https://app.sienna.network/)\
+   * [app.secretswap.net](http://app.secretswap.net/)\\
+   * [app.sienna.network](https://app.sienna.network/)\\
    * [app.shadeprotocol.io](http://app.shadeprotocol.io/)
 4. **Iris:**
    * [https://coinswap.market/](https://coinswap.market/)
