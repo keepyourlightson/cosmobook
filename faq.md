@@ -35,7 +35,7 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 |              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)   |                 |
 |              | Umee             | Sommelier (SOMM)     | Regen           |                 |
 |              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
-|              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
+|              | Nomic            | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
 |              |                  | Certik (CTK)         | Likecoin (LIKE) |                 |
 |              |                  | Bitsong (BTSG)       | Rebus           |                 |
 |              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
