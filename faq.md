@@ -26,7 +26,7 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 
 Используйте этого телеграм бота: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 
-## Unbonding токенов&#x20;
+## Unbonding токенов
 
 | 7+ days      | 14+ days         | 21+ days             |                 | 28+ days        |
 | ------------ | ---------------- | -------------------- | --------------- | --------------- |
@@ -35,13 +35,9 @@ _полный гайд_ [_здесь_](https://teletype.in/@creeptah/evm\_to\_co
 |              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)   |                 |
 |              | Umee             | Sommelier (SOMM)     | Regen           |                 |
 |              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
-|              |                  | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
+|              | Nomic            | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
 |              |                  | Certik (CTK)         | Likecoin (LIKE) |                 |
 |              |                  | Bitsong (BTSG)       | Rebus           |                 |
 |              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
 |              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
-
-
-
-
