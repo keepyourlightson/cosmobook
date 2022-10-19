@@ -26,7 +26,7 @@ Oraichain Mainnet 2.0 - это крупное обновление, которо
 
 Для начала напомню как работает оракул в блокчейне: юзер инициирует выполнение контракта, который он-чейн обращается к контракту оракула. Тот в свою очередь обращается к серверу (уже офф-чейн), подключенному к внешнему миру. Далее в обратном порядке.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Для лучшего понимания работы оракулов рекомендуем почитать перевод статьи с разбором различных решений, которые используют оракулы. Ссылочка [тут.](https://telegra.ph/Orakuly-razbor-reshenij-predostvlyayushchih-dannye-v-blokchejn-05-25)
 
