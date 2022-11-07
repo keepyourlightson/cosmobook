@@ -47,6 +47,14 @@
 
 * [https://monitor.bronbro.io/d/boards/list-of-boards?orgId=2](https://monitor.bronbro.io/d/boards/list-of-boards?orgId=2)
 
+### Отслеживание аптайма валидаторов:
+
+* [https://ping.pub/cosmos/uptime](https://ping.pub/cosmos/uptime)
+
+### Список зон Cosmos:
+
+* [https://cosmos.directory/](https://cosmos.directory/)
+
 ### Краны:
 
 * [https://stakely.io/en/faucet](https://stakely.io/en/faucet)
