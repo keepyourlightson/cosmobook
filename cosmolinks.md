@@ -15,6 +15,7 @@
 
 * [https://app.citadel.one/](https://app.citadel.one/)
 * [https://apeboard.finance/dashboard](https://apeboard.finance/dashboard)
+* [https://app.pulsar.finance](https://app.pulsar.finance)
 
 ### Поиск аккаунтов по cosmos-адресу:
 
@@ -38,6 +39,7 @@
 * [https://nanoly.com](https://nanoly.com)
 * [https://juno.tfm.com](https://juno.tfm.com)
 * [https://www.dexmos.app/](https://www.dexmos.app/)
+* [https://decentralization.smartstake.io/](https://decentralization.smartstake.io/)
 
 ### IBC карта:
 
