@@ -14,8 +14,10 @@
 ### DeFi трекеры:
 
 * [https://app.citadel.one/](https://app.citadel.one/)
-* [https://apeboard.finance/dashboard](https://apeboard.finance/dashboard)
+* [https://portfolio.nansen.ai/dashboard](https://portfolio.nansen.ai/dashboard)
 * [https://app.pulsar.finance](https://app.pulsar.finance)
+* [https://optical.0xtracker.app/](https://optical.0xtracker.app/)
+* [https://defiyield.app/portfolio](https://defiyield.app/portfolio)
 
 ### Поиск аккаунтов по cosmos-адресу:
 
@@ -57,9 +59,14 @@
 
 * [https://cosmos.directory/](https://cosmos.directory/)
 
+### Добавление сетей в Keplr, включая тестовые
+
+* [https://chain-registry.netlify.app/](https://chain-registry.netlify.app/)
+
 ### Краны:
 
 * [https://stakely.io/en/faucet](https://stakely.io/en/faucet)
+* [https://faucet.crescent.network/](https://faucet.crescent.network/)
 
 ### DEXы:
 
@@ -88,6 +95,8 @@
 10. **Evmos:**
     * [https://app.diffusion.fi/](https://app.diffusion.fi/)
     * [https://app.evmoswap.org/](https://app.evmoswap.org/)
+11. **Carbon Network:**
+    * [https://app.dem.exchange/](https://app.dem.exchange/trade)
 
 ### Restake (автокомпаундирование):
 
@@ -115,6 +124,7 @@
 
 * [https://ibc.cosmos.network/](https://ibc.cosmos.network/)
 * [https://ibcprotocol.org/](https://ibcprotocol.org/)
+* [https://medium.com/@IBCteam](https://medium.com/@IBCteam)
 
 ### CosmWasm:
 
@@ -191,6 +201,7 @@
 ### Голосования
 
 * [http://t.me/citadelvotebot](http://t.me/citadelvotebot)
+* http://t.me/CosmosProposalBot
 
 ### Агрегатор новостей
 
