@@ -201,7 +201,7 @@
 ### Голосования
 
 * [http://t.me/citadelvotebot](http://t.me/citadelvotebot)
-* http://t.me/CosmosProposalBot
+* [http://t.me/CosmosProposalBot](http://t.me/CosmosProposalBot)
 
 ### Агрегатор новостей
 
