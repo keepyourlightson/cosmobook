@@ -77,8 +77,8 @@
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
 3. **Secret**
-   * [app.secretswap.net](http://app.secretswap.net/)\\
-   * [app.sienna.network](https://app.sienna.network/)\\
+   * [app.secretswap.net](http://app.secretswap.net/)
+   * [app.sienna.network](https://app.sienna.network/)
    * [app.shadeprotocol.io](http://app.shadeprotocol.io/)
 4. **Iris:**
    * [https://coinswap.market/](https://coinswap.market/)
